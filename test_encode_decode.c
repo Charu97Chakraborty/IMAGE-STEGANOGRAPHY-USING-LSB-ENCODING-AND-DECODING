@@ -1,6 +1,6 @@
 /*
-Name            :   Shilpi Maity
-Date            :   31-05-2023
+Name            :   Charushila Chakraborty
+Date            :   31-03-2023
 Description     :   LSB Image Steganography
 Sample Input    :   For encoding:
                     ./a.out -e <beautiful.bmp> <secret.txt>
